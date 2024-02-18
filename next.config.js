@@ -21,6 +21,7 @@ const nextConfig = {
       "s.w-x.co",
       "static.tnn.in",
       "images.news18.com",
+      "i.pcmag.com",
     ],
   },
 };
